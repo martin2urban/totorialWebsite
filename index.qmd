@@ -12,6 +12,4 @@ In this project we aim to visualize the trends of the most frequently used babyn
 
 ![](https://cdn.pixabay.com/photo/2016/10/02/06/27/baby-1709013_1280.jpg){fig-align="right" width="400"}
 
-\![\](<https://unsplash.com/photos/selective-focus-photography-of-baby-holding-wooden-cube-CEEhmAGpYzE>)
-
-\![\](Baby2[![Imagesorter]()](https://cdn.pixabay.com/photo/2016/10/02/06/27/baby-1709013_1280.jpg)){fig-align="right" width=400}
+![ara](images/AraLer-O Fc 7dpi.jpg)
